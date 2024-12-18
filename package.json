@@ -1,5 +1,5 @@
 {
-  "name": "ProjectNameHere",
+  "name": "SampleSky",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "18.3.1",
-    "react-native": "0.75.4"
+    "react-native": "0.75.4",
+    "SampleSky": "file:"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

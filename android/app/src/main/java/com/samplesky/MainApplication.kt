@@ -1,4 +1,4 @@
-package com.projectnamehere
+package com.fulcroworld.samplesky
 
 import android.app.Application
 import com.facebook.react.PackageList
